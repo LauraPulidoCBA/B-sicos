@@ -1,2 +1,2 @@
-# B-sicos
+# Básicos
 Ejercicios básicos de Node.Js
